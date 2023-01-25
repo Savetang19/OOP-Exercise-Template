@@ -1,4 +1,5 @@
 # OOP-Exercise
+This exercise is a part of 01219116 & 01219117 Computer Programming II subjects, Kasetsart University.
 
 This is the repository for you to submit your works for the [OOP Exercise](https://www3.ntu.edu.sg/home/ehchua/programming/java/j3f_oopexercises.html) <br>
 Please submit in this files structure
